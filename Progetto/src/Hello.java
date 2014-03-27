@@ -1,8 +1,7 @@
 
 public class Hello {
 
-	public hello(string message) {
-	
-		
-	}
+	public Hello(String message) {
+	System.out.printls("message:"+ message);
+		}
 }
